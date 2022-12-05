@@ -1,5 +1,5 @@
 ## About The Project
-This project is using React to build a simple static React Information Website.<br/>
+This project is using React to build a simple static React Information Website with light mode and dark mode.<br/>
 [![React][React.js]][React-url]
 
 ## Getting Started
